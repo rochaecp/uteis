@@ -15,3 +15,4 @@
 #### IDEs
 
 - [Visual Studio](estudos/ides/visual_studio/README.md)
+- [Visual Studio Code](estudos/ides/vs_code/README.md)
