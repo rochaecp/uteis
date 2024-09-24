@@ -1,4 +1,6 @@
-# Exercícios Práticos - Operadores Aritméticos
+# Exercícios Práticos - Operadores
+
+#### Operadores Aritméticos
 
 1. Soma de Dois Números
     - Declare duas variáveis inteiras, some seus valores e exiba o resultado no console.
@@ -30,7 +32,7 @@
 1. Ordem de Operações
     - Use os operadores de adição, multiplicação e divisão em uma única expressão, respeitando a ordem de operações, e exiba o resultado.    
 
-# Exercícios Práticos - Operadores Relacionais
+#### Operadores Relacionais
 
 1. Comparação de Igualdade
     - Declare duas variáveis inteiras, compare-as usando o operador `=` e exiba o resultado (`True` ou `False`).
@@ -62,7 +64,7 @@
 1. Comparação com Negação de Resultados
     - Declare duas variáveis `Integer`, compare-as com `=`, e use `Not` para exibir o inverso do resultado.
 
-# Exercícios Práticos - Operadores Lógicos
+#### Operadores Lógicos
 
 1. Operação Lógica `And`
     - Declare duas variáveis booleanas, use o operador `And` e exiba o resultado da combinação.

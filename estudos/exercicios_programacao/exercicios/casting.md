@@ -1,4 +1,6 @@
-# Exercícios Práticos - Casting
+# Exercícios Práticos 
+
+## Casting
 
 1. Casting de Tipos de Dados
     - Receba uma entrada do usuário como texto, converta-a para `Integer` e exiba o resultado da multiplicação por 2.
