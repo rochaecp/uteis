@@ -4,7 +4,7 @@
 
 1. [Tipos de Dados, Variáveis e Constantes](exercicios/tipos_variaveis_constantes.md)
 1. [Operadores Aritméticos, Relacionais e Lógicos](exercicios/operadores.md)
-1. [Casting](exercicios/casting.md)
+1. [Conversão Implícita e Explícita (casting)](exercicios/casting.md)
 1. [Strings](exercicios/strings.md)
 1. [Datas](exercicios/datas.md)
 
