@@ -4,11 +4,6 @@
 
 - [Livro 1 POO](estudos/engenharia_de_sw/poo/livro_01/README.md)
 
-#### Exercícios
-
-- [Exercícios de Programação](estudos/exercicios_programacao/README.md)
-
-
 #### Computação Gráfica
 
 - [Animação 2D](estudos/computacao_grafica/animacao_2d/README.md)
