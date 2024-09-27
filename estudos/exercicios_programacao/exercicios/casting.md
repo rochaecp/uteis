@@ -12,9 +12,6 @@
 1. **Conversão Implícita de Byte para Short**
     - Declare uma variável `Byte` com valor máximo permitido e faça a conversão implícita para `Short`. Exiba os valores no console.
 
-1. **Conversão Implícita de Char para Integer**
-    - Declare uma variável `Char` com um caractere e faça a conversão implícita para `Integer`. Exiba o código ASCII correspondente no console.
-
 1. **Conversão Implícita de Decimal para Double**
     - Declare uma variável `Decimal` com valor decimal e faça a conversão implícita para `Double`. Exiba o resultado no console.
 
