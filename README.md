@@ -1,8 +1,16 @@
 # Úteis
 
-#### Engenharia de Software
+#### Programação Orientada a Objetos
 
-- [Livro 1 POO](estudos/engenharia_de_sw/poo/livro_01/README.md)
+- [Livro 1](estudos/poo/README.md)
+
+#### Exercícios de Programação
+
+- [Exercícios de Programação](estudos/exercicios_programacao/README.md)
+
+#### Ciência de Dados
+
+- [Curso 1](estudos/ciencia_de_dados/README.md)
 
 #### Computação Gráfica
 
