@@ -657,13 +657,41 @@ class Classe1 : IUm, IDois
 
 # Utilização
 
-- Projeto orientado a objetos
-    - Entender o domínio do sistema que se deseja desenvolver;
-    - Identificar as entidades (objetos com atributos e métodos)
+## Projeto orientado a objetos
+
+- Entender o domínio do sistema que se deseja desenvolver;
+- Identificar as entidades (objetos com atributos e métodos)
+- Geralmente o domínio inicial não é completo o suficiente, então é comum algumas necessidade surgirem ao longo do desenvolvimento.
+
+#### Processo de Modelagem
+
+- Reconhecimento das entidades
+    - Todas as entidades são modeladas como classes
+    - Criação de uma superclasse abstrata chamada Pessoa, da qual as classes Medico e Paciente serão subclasses.
+    - Associação da superclasse Pessoa com um Endereco.
+
+![Modelagem](imagens/modelagem_01.png)
+
+- Definição de atributos
+    - Após o reconhecimento das entidades, é a hora de definir seus atributos e métodos
+    - Por boa prática todos os atributos devem ser privados.
+
+![Modelagem com atributos](imagens/modelagem_02.png)
+
+- Definição de métodos
+    - Por padrão a maioria dos métodos será pública
+    - a visibilidade pública é representada por (+)
+    - a visibilidade privada é representada por (-)
+
+![Modelagem com atributos e métodos](imagens/modelagem_03.png)
+
+#### Processo de Codificação
+
+...
 
 # *Continuar em*
 
-- pag 153 o dominio...
+- pag 160 o dominio...
 
 # Exercícios
 
